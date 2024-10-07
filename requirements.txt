@@ -1,0 +1,6 @@
+websocket-client
+wcferry
+bs4
+beautifulsoup4
+loguru
+dashscope
