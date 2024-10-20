@@ -4,7 +4,7 @@
 
 基于WeChatFerry的微信机器人，提供倒数日功能并集成了多种AI模型用于聊天交互。
 
-项目详细介绍见我的博客文章：[Pi3'Notes](https://blog.pi3.fun/post/2023/12/%E5%BE%AE%E4%BF%A1%E5%AE%9A%E6%97%B6%E5%8F%91%E9%80%81%E5%80%92%E6%95%B0%E6%97%A5/)
+项目详细介绍见我的博客文章：[Pi3's Notes](https://blog.pi3.fun/post/2023/12/%E5%BE%AE%E4%BF%A1%E5%AE%9A%E6%97%B6%E5%8F%91%E9%80%81%E5%80%92%E6%95%B0%E6%97%A5/)
 
 ## 功能特性
 
