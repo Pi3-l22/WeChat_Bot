@@ -4,7 +4,7 @@
 
 A WeChat bot based on WeChatFerry that provides countdown functionality and integrates with various AI models for chat interactions.
 
-For a detailed project introduction, please visit my blog post: [Pi3'Notes](https://blog.pi3.fun/post/2023/12/%E5%BE%AE%E4%BF%A1%E5%AE%9A%E6%97%B6%E5%8F%91%E9%80%81%E5%80%92%E6%95%B0%E6%97%A5/)
+For a detailed project introduction, please visit my blog post: [Pi3's Notes](https://blog.pi3.fun/post/2023/12/%E5%BE%AE%E4%BF%A1%E5%AE%9A%E6%97%B6%E5%8F%91%E9%80%81%E5%80%92%E6%95%B0%E6%97%A5/)
 
 ## Features
 
